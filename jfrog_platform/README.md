@@ -218,3 +218,4 @@ Need help? Contact [Datadog support][15].
 [17]: https://raw.githubusercontent.com/DataDog/integrations-extras/master/jfrog_platform/images/xray_violations.png
 [18]: https://github.com/jfrog/log-analytics-datadog/blob/master/README.md
 [19]: https://www.jfrog.com/confluence/display/JFROG/User+Profile#UserProfile-APIKey
+
